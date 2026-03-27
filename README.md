@@ -7,7 +7,7 @@
 - 用 Tavily Search + OpenAI 兼容接口，定期从公开网页里挖「看起来有用」的 AI 接口站点；
 - 把站点信息整理成一个 `sites.json`；
 - 前端用一个表格页，帮你一页扫过这些入口，按关键词 / 标签 / 分类筛一筛。
-
+🌐 **在线访问**: [FIND KEY](https://findkey.openjoy.asia)（如果对你有帮助，欢迎点个 ⭐ Star 支持一下！）
 ---
 
 ## 如何使用
