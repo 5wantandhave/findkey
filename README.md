@@ -7,6 +7,7 @@
 - 用 Tavily Search + OpenAI 兼容接口，定期从公开网页里挖「看起来有用」的 AI 接口站点；
 - 把站点信息整理成一个 `sites.json`；
 - 前端用一个表格页，帮你一页扫过这些入口，按关键词 / 标签 / 分类筛一筛。
+
 🌐 **在线访问**: [FIND KEY](https://findkey.openjoy.asia)（如果对你有帮助，欢迎点个 ⭐ Star 支持一下！）
 ---
 
@@ -42,13 +43,26 @@ OPENAI_API_KEY=your_openai_like_key_here
 
 大致流程：
 
-1. 在 GitHub 仓库里配置 Secrets：`TAVILY_API_KEY`, `OPENAI_API_KEY` 等；
-2. 使用 `.github/workflows/collect-and-commit.yml`，每隔一段时间跑一次 `npm run collect`，如果 `public/data/sites.json` 变了就自动 commit + push；
+1. 在 GitHub 仓库里配置 Secrets：
+   - `TAVILY_API_KEY`, `OPENAI_API_KEY` 等（用于采集数据）
+   - **`PAT_TOKEN`**（⚠️ 重要：用于触发 Cloudflare Pages 自动部署）
+2. 使用 `.github/workflows/github-actions-collect.yml`，每隔一段时间跑一次 `npm run collect`，如果 `public/data/sites.json` 变了就自动 commit + push；
 3. 在 Cloudflare Pages 里：
    - 连接这个 GitHub 仓库；
    - Build 命令：`npm run build`；
    - 输出目录：`dist`；
 4. Pages 每次看到新 commit 会自动重建前端，前端始终从最新的 `/data/sites.json` 读取数据。
+
+#### 关于 PAT_TOKEN 的说明
+
+由于 Cloudflare Pages 默认不会响应 GitHub Actions bot 的自动提交，需要使用 **Personal Access Token (PAT)** 来代替默认的 `GITHUB_TOKEN`。
+
+**配置步骤：**
+1. 访问 https://github.com/settings/tokens
+2. 点击 **Generate new token (classic)**
+3. 勾选 `repo` 权限
+4. 生成并复制 token
+5. 在你的仓库 → Settings → Secrets and variables → Actions 中，添加名为 `PAT_TOKEN` 的 secret
 
 
 ---

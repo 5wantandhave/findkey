@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit and push updated sites.json (if changed)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           if [[ -z "$(git status --porcelain public/data/sites.json)" ]]; then
             echo "sites.json 无变化，跳过提交。"
