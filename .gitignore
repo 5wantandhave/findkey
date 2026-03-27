@@ -1,0 +1,5 @@
+# 忽略依赖和本地环境配置
+node_modules
+.dist
+dist
+.env
