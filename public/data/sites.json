@@ -19,11 +19,12 @@
         "SDK示例"
       ],
       "sourceKeywords": [
-        "api 站"
+        "api 站",
+        "API 中转"
       ],
       "freeQuotaDesc": "页面写明“立即免费注册”，且“注册自动送测试额度 0.1 美金，约300万 4o-mini Tokens，首充加赠 1 美金”；价格说明中也提到“注册即送 0.1 美金”。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api.bltcy.ai/",
@@ -40,11 +41,12 @@
         "Midjourney"
       ],
       "sourceKeywords": [
-        "api 站"
+        "api 站",
+        "API 中转"
       ],
       "freeQuotaDesc": "",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://www.mnapi.com",
@@ -62,10 +64,11 @@
         "试用"
       ],
       "sourceKeywords": [
-        "api 站"
+        "api 站",
+        "API 中转"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://www.dmxapi.com/",
@@ -103,11 +106,12 @@
         "模型聚合"
       ],
       "sourceKeywords": [
-        "api 站"
+        "api 站",
+        "API 中转"
       ],
       "freeQuotaDesc": "页面写明“新用户注册即赠送$0.2免费额度，让您测试满意后再充值”，并强调兼容 OpenAI API、可直接替换 base_url 接入。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://www.juhe.cn/docs",
@@ -131,7 +135,7 @@
       ],
       "freeQuotaDesc": "页面显示“免费接口”分类，并列出如全国城市空气质量免费30次/天、运营商基站信息免费20次/天、台风路径免费50次/天；同时还有“企业认证 免费领666次”等活动说明。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api.zscc.in/",
@@ -152,11 +156,13 @@
       "sourceKeywords": [
         "公益站",
         "api 公益站",
-        "公益 API"
+        "公益 API",
+        "Claude Code 公益站",
+        "2026 公益 API"
       ],
       "freeQuotaDesc": "标题明确标注为“公益站”，说明平台带有公益/免费服务属性，但当前内容未展示具体免费额度、试用计划或领取方式。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://demo.voapi.top/",
@@ -180,7 +186,7 @@
       ],
       "freeQuotaDesc": "页面标题明确标注为“公益站”，说明带有公益/免费性质，但当前片段中未看到具体免费额度或试用细则。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://deepseek.csdn.net/68341f2001ee522510996803.html",
@@ -206,7 +212,7 @@
       ],
       "freeQuotaDesc": "页面写明公益站提供完全免费的 AI API 服务，支持 GPT-4o（30次/日）、GPT-4o-Mini（200次/日）、Gemini（100次/日）、DeepSeek（100次/日）；用户通过 GitHub 登录并 Star 开源项目后可获取 API Key。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://liao.world/",
@@ -227,7 +233,7 @@
       ],
       "freeQuotaDesc": "页面明确写明“本站为永久免费公益站”，表示该站提供免费的公益访问方式。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://sunlea.de/",
@@ -248,11 +254,13 @@
         "公益站",
         "api 公益站",
         "L站 公益",
-        "2026 公益 API"
+        "2026 公益 API",
+        "公益 API",
+        "公益 api"
       ],
       "freeQuotaDesc": "个人设置中提到可每日签到获取额度，暂定每日 200 额度，且需要在剩余额度低于 10 时才能签到；同时禁止多账号规避限制和二次分发。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://github.com/chatanywhere/GPT_API_free",
@@ -268,10 +276,11 @@
         "API相关项目"
       ],
       "sourceKeywords": [
-        "公益站"
+        "公益站",
+        "sk- 免费 API"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api.7xnn.cn/",
@@ -316,7 +325,7 @@
       ],
       "freeQuotaDesc": "页面写明“免费额度已经用完”，并说明备份站点中 chatGPT V3.5 每12分钟可免费使用10次、Google Bard 免费无限制使用，且可通过“每日奖励”获取钻石来免费试用其他版本。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://free.smallai.asia",
@@ -360,7 +369,7 @@
         "Claude Code 公益站"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://claude.gege.chat",
@@ -381,7 +390,7 @@
         "Claude Code 公益站"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://zhuanlan.zhihu.com/p/78346304731",
@@ -402,7 +411,7 @@
       ],
       "freeQuotaDesc": "页面明确称其为“免费的公益AI接口”，并提到“注册即送”，说明存在免费额度或新用户赠送用量。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://kelaode.ai",
@@ -443,11 +452,13 @@
         "Claude Code 公益站",
         "api 公益站",
         "公益 API",
-        "公益 api"
+        "公益 api",
+        "公益站",
+        "2026 公益 API"
       ],
       "freeQuotaDesc": "标题明确标注为“公益站”，说明站点强调公益/免费属性，但当前内容片段未看到具体免费额度、试用计划或赠送规则。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://claude.ai/",
@@ -469,7 +480,7 @@
       ],
       "freeQuotaDesc": "页面写明 Claude 提供 Free 计划，价格为 $0，标注为“Free for everyone”，可试用 Claude 并使用多项基础能力；但未在该片段中明确给出 API 免费额度数值。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://doi9.top",
@@ -510,7 +521,7 @@
       ],
       "freeQuotaDesc": "页面明确写有“Claude AI 公益站，免费领50刀API额度”，说明提供免费 API 使用额度。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://ai.qaq.al/",
@@ -570,11 +581,12 @@
       "sourceKeywords": [
         "api 公益站",
         "公益 API",
-        "公益 api"
+        "公益 api",
+        "公益站"
       ],
       "freeQuotaDesc": "页面写明“提供完全免费的AI API服务”，并列出公益站模型限额，例如 GPT-4o 系列为 30 次/日。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://www.openai-hk.com/docs/lab/free-api.html",
@@ -598,7 +610,7 @@
       ],
       "freeQuotaDesc": "页面写明“免费接口仅支持 GPT-3.5 模型”，key 可通过控制台新建子 key 获取且“无需充值”；同时限制为单用户每分钟 30 次请求。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api.zetatechs.com/",
@@ -621,7 +633,7 @@
       ],
       "freeQuotaDesc": "页面写明“本站现提供GPT等系列免费模型（以-free后缀标识，令牌请选择free分组）”，但同时说明“仅作为已付费用户福利，本站非公益站”。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api.nio.gs",
@@ -645,7 +657,7 @@
         "公益 api"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://uapis.cn/",
@@ -685,11 +697,13 @@
       ],
       "sourceKeywords": [
         "公益 API",
-        "公益 api"
+        "公益 api",
+        "公益站",
+        "api 公益站"
       ],
       "freeQuotaDesc": "页面明确提到这是“免费、OpenAI 兼容的公益API站”，并说明“无需注册即可用”，体现出明显的免费/公益可用性。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://github.com/popjane/free_chatgpt_api",
@@ -713,7 +727,7 @@
       ],
       "freeQuotaDesc": "页面明确提供免费 API 地址 https://free.v36.cm，并有“立即领取免费KEY”入口；同时说明这是公益项目、仅供个人学习使用，限制 RPM 为 96，免费 API 不保证稳定性且不提供技术支持。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api.xfabe.com/",
@@ -753,7 +767,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://openrouter.ai/",
@@ -774,7 +788,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/960621",
@@ -794,7 +808,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://stephecurry.asia",
@@ -835,7 +849,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1796104",
@@ -874,7 +888,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1796752",
@@ -893,7 +907,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1663253",
@@ -913,7 +927,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1831122",
@@ -933,7 +947,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1829303",
@@ -953,7 +967,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1563294",
@@ -974,7 +988,7 @@
         "LINUX DO 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/173592",
@@ -992,11 +1006,16 @@
       ],
       "sourceKeywords": [
         "DO 公益",
-        "L站 公益"
+        "L站 公益",
+        "公益站",
+        "api 公益站",
+        "公益 API",
+        "公益 api",
+        "LINUX DO 公益"
       ],
       "freeQuotaDesc": "页面明确提到新用户注册送 10 刀，属于注册即送的免费额度/试用福利。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://chat-api4.tx648.asia/",
@@ -1058,7 +1077,7 @@
         "L站 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://linux.do/t/topic/1354690",
@@ -1079,7 +1098,7 @@
       ],
       "freeQuotaDesc": "",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://anyrouter.top",
@@ -1099,7 +1118,7 @@
         "L站 公益"
       ],
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://www.tavus.io/post/ai-apis",
@@ -1236,7 +1255,7 @@
       ],
       "freeQuotaDesc": "页面提供免费 API Key，并列出多期如“50刀”公益额度；还说明注册并进群可领取 3 刀测试额度，部分模型可直接免费调用。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api2.aigcbest.top/",
@@ -1277,7 +1296,7 @@
       ],
       "freeQuotaDesc": "页面提到目前支持 free:QwQ-32B，并直接给出 OpenAI 兼容接口地址和免费 API 密钥，明显包含免费可调用的接口资源。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://modelscope.cn/headlines/article/795",
@@ -1298,7 +1317,7 @@
       ],
       "freeQuotaDesc": "页面提到魔搭推出免费的模型推理 API，注册即送每日 2000 次调用，可使用魔搭的 SDK Token 进行调用。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     },
     {
       "url": "https://api-docs.deepseek.com/",
@@ -1320,7 +1339,340 @@
       "freeQuotaDesc": "",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
       "lastUpdatedAt": "2026-03-27T09:31:52.793Z"
+    },
+    {
+      "url": "https://aicanapi.com/",
+      "title": "艾可API - AI 接口服务平台",
+      "summary": "页面内容显示这是一个提供 AI API 服务的平台，强调高性能架构、百万级并发、企业级安全等平台能力，符合接口服务提供方特征。但当前片段未提到免费、公益、试用或免费额度信息。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": false,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "AI API",
+        "接口平台",
+        "平台官网"
+      ],
+      "sourceKeywords": [
+        "api 站"
+      ],
+      "freeQuotaDesc": "",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://api.gpt.ge/",
+      "title": "V-API - 提供 OpenAI/ChatGPT、Gemini、Claude 等模型的 API 中转服务",
+      "summary": "该页面描述了 VAPI-v3 提供稳定可靠的 OpenAI API 服务，并支持 ChatGPT 全系列、DeepSeek、Gemini 等多种模型接口，属于直接提供 AI API 服务的站点。内容提到“API适用于测试和体验目的”，体现出试用性质，但未明确给出具体免费额度规则。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "AI 中转",
+        "API 服务",
+        "OpenAI",
+        "ChatGPT",
+        "Gemini",
+        "Claude",
+        "DeepSeek",
+        "试用"
+      ],
+      "sourceKeywords": [
+        "api 站"
+      ],
+      "freeQuotaDesc": "页面提到“本站API适用于测试和体验目的”，可视为强调试用性质，但未看到明确的免费额度、公益用量或签到送额度说明。",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://github.com/ruanyf/weekly/issues/4969",
+      "title": "SmallAI 公益站自荐页：免费体验 GPT-4o mini 的多模型 AI 平台",
+      "summary": "页面内容介绍了 SmallAI 这一在线 AI 对话平台，聚合 GPT、Claude、Gemini 等多种模型，并支持多模态、文件上传、语音和图像生成功能。页面明确写到“SmallAI公益站支持无限制免费体验GPT-4o mini模型”，说明其具备公益/免费使用属性。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "公益站",
+        "免费额度",
+        "多模型平台",
+        "多模态",
+        "AI 对话平台"
+      ],
+      "sourceKeywords": [
+        "公益站"
+      ],
+      "freeQuotaDesc": "页面明确提到“SmallAI公益站支持无限制免费体验GPT-4o mini模型”。",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://claude.gege.chat/login?returnTo=%2F%3F",
+      "title": "GE Chat Claude公益站首页",
+      "summary": "该页面是一个提供 Claude 公益访问服务的站点首页，展示多个可用账号/镜像入口，并附有使用说明与帮助中心。页面明确写有“免费共享Claude镜像”和“Claude公益站”，体现免费/公益性质，但未见标准 API 文档或开发者接口说明。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "公益站",
+        "Claude",
+        "免费共享",
+        "镜像站",
+        "帮助中心"
+      ],
+      "sourceKeywords": [
+        "Claude Code 公益站"
+      ],
+      "freeQuotaDesc": "页面明确标注“免费共享Claude镜像”“Claude公益站”，说明该站点提供免费的公益访问服务，但未提到具体免费额度或试用次数。",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://shared-plus.fduer.com/?access_code=fdu",
+      "title": "Fduer Shared Plus 公益 AI 接口站",
+      "summary": "帖子中称这是“主站”，并明确提到 kelaode.ai 是公益站，语境表明该站属于提供 Claude 相关共享/中转服务的 AI 站点。页面片段里有明确“公益”描述，但未见具体免费额度或官方 API 文档信息。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "帖子明确称其为“公益站”，说明存在免费/公益性质的服务，但未给出具体额度、频率或试用细则。",
+      "tags": [
+        "公益站",
+        "AI 中转",
+        "Claude",
+        "免费使用"
+      ],
+      "sourceKeywords": [
+        "Claude Code 公益站"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://shared-claude.fduer.com/?access_code=fdu",
+      "title": "Fduer Shared Claude 公益 Claude 访问站",
+      "summary": "该链接出现在讨论“claude公益站被反代了”的帖子中，结合上下文可判断它是提供 Claude 相关共享访问/接口能力的站点。文本中明确出现“公益站”表述，但没有看到详细 API 文档或免费额度规则。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "帖子中直接说明这是“公益站”，可视为提供免费/公益性质服务，但未披露具体免费额度。",
+      "tags": [
+        "公益站",
+        "Claude",
+        "AI 中转",
+        "免费使用"
+      ],
+      "sourceKeywords": [
+        "Claude Code 公益站"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://shared-claude2.fduer.com/?access_code=fdu",
+      "title": "Fduer Shared Claude2 公益 Claude 站点",
+      "summary": "这是帖子开头贴出的 Claude 相关站点链接，整帖围绕“claude公益站”被反代展开，因此可归入实际提供 AI 服务的共享/中转站。文本只说明其公益属性，未提供官方 API、SDK 或试用计划细节。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "根据帖子标题和正文“kelaode.ai 是公益站，不允许反代”的描述，可判断该类站点具有公益免费性质，但没有明确额度说明。",
+      "tags": [
+        "公益站",
+        "Claude",
+        "AI 中转",
+        "免费使用"
+      ],
+      "sourceKeywords": [
+        "Claude Code 公益站"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://api.bltcy.ai/models",
+      "title": "柏拉图AI API中转站首页",
+      "summary": "该页面明显是一个提供 AI 接口服务的中转站/平台首页，包含聊天、API 文档、支持模型、价格与公告等内容，展示了 OpenAI、Claude、Gemini、Sora、Grok、Qwen 等多种模型接口与计费说明。页面内容强调的是模型接入、分组、价格调整和平台运营信息，但未看到免费额度、公益用量或试用计划的明确描述。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": false,
+      "hasIdeOrSdkInfo": true,
+      "tags": [
+        "AI中转",
+        "API平台",
+        "接口服务",
+        "API文档",
+        "多模型聚合",
+        "OpenAI兼容"
+      ],
+      "sourceKeywords": [
+        "API 中转"
+      ],
+      "freeQuotaDesc": "",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://api.ablai.top/",
+      "title": "阿波罗 AI 中转 API 平台",
+      "summary": "该页面介绍阿波罗 API 是一个提供 OpenAI、Claude、Deepseek、Gemini 等模型官方同源接口的中转分发平台，属于直接提供 AI 接口服务的网站。页面内容强调稳定、不限速、不过期和按量计费，但未提到免费、公益或试用额度。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": false,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "AI 中转",
+        "API 平台",
+        "OpenAI",
+        "Claude",
+        "Deepseek",
+        "Gemini",
+        "按量计费"
+      ],
+      "sourceKeywords": [
+        "API 中转"
+      ],
+      "freeQuotaDesc": "",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://www.closeai-asia.com/",
+      "title": "CloseAI 企业级 OpenAI 代理与中转平台",
+      "summary": "该页面明确表明 CloseAI 是一个提供商用级 OpenAI 代理服务的 AI 中转平台，提供与 OpenAI 兼容的接口，并附有 API 文档、客户端和常见问题入口。页面强调的是企业级商用服务、按量付费、返现和分销，并未提到免费额度、公益用量或试用计划。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": false,
+      "hasIdeOrSdkInfo": true,
+      "tags": [
+        "AI 中转",
+        "OpenAI 代理",
+        "API 文档",
+        "企业级平台",
+        "客户端"
+      ],
+      "sourceKeywords": [
+        "API 中转"
+      ],
+      "freeQuotaDesc": "",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://linux.do/t/topic/1779195",
+      "title": "NihaoAPI AI 接口站更新帖",
+      "summary": "这是 NihaoAPI 的另一条帖子，说明其持续提供 AI API 服务。虽然标题主要是模型回归信息，但结合同站其他帖子与“公益推广”标签，可判断为同一 AI 接口服务站的活动更新。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": false,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "",
+      "tags": [
+        "AI 中转",
+        "模型更新",
+        "公益推广"
+      ],
+      "sourceKeywords": [
+        "LINUX DO 公益"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://linux.do/t/topic/678577",
+      "title": "Unlimit 公益 AI 接口站（帖子中提及）",
+      "summary": "页面内容明确提到“Unlimit 公益站”已上线半个多月，有 1300 多名注册用户，并“始终保持免费公益”。从描述看，这是一个提供 AI 模型接口服务的公益站，但当前摘录未给出其独立官网或接口文档链接。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "帖子摘录明确说明 Unlimit 公益站“始终保持免费公益”，但未见更具体的免费额度或试用配额说明。",
+      "tags": [
+        "公益站",
+        "AI 接口",
+        "免费",
+        "模型服务"
+      ],
+      "sourceKeywords": [
+        "L站 公益"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://x.ainiaini.xyz/login?expired=true",
+      "title": "爱你公益站登录页",
+      "summary": "页面内容中唯一明确出现的站点是“爱你公益站”，从名称可判断其属于公益性质的 AI 服务站点，但本页片段只显示了登录相关链接与讨论，没有提供明确的 API 文档或接口说明。文本中出现“公益站”表述，可视为存在公益/免费属性线索，但免费额度、试用计划等细节未给出。",
+      "hasOfficialApiInfo": false,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "仅从“爱你公益站”这一名称和帖子中多次提到“公益站”可知其具有公益/免费性质线索，但未看到具体免费额度、试用规则或用量说明。",
+      "tags": [
+        "公益站",
+        "AI 服务站点",
+        "登录页"
+      ],
+      "sourceKeywords": [
+        "L站 公益"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://ldoh.105117.xyz/auth/login?returnTo=%2F",
+      "title": "LD OPEN HUB 公益 AI 接口站",
+      "summary": "帖子中明确提到这是站内常见的 AI API 站点之一，用户会拿到 API Key 和接口地址进行 OpenAI 兼容调用。上下文多次提到“站内公益站”通常是免费、签到或发放额度，但该帖未给出该站独立页面上的详细免费规则。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "freeQuotaDesc": "帖内说明站内公益站“纯公益”“不收费”，并提到一般是“签到或者发额度”；该链接被作为相关站点贴出，但未展示更具体额度细则。",
+      "tags": [
+        "公益站",
+        "AI 中转",
+        "OpenAI兼容",
+        "API Key",
+        "免费额度"
+      ],
+      "sourceKeywords": [
+        "L站 公益"
+      ],
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://newapi.telecom.moe/about",
+      "title": "New API：统一 AI 模型聚合与分发网关",
+      "summary": "该页面描述的是一个提供 AI 模型聚合、分发和协议兼容转换的网关服务，可将多类大语言模型转换为 OpenAI、Claude、Gemini 兼容接口，属于 AI 接口服务提供方。页面内容未明确提到免费额度、公益计划或试用信息。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": false,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "AI 中转",
+        "API 网关",
+        "模型聚合",
+        "接口兼容",
+        "文档/介绍"
+      ],
+      "sourceKeywords": [
+        "2026 公益 API"
+      ],
+      "freeQuotaDesc": "",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
+    },
+    {
+      "url": "https://help.aliyun.com/zh/model-studio/new-free-quota",
+      "title": "阿里云百炼新人免费额度说明",
+      "summary": "这是阿里云百炼官方文档页面，介绍其大模型推理/API 调用服务的新人免费额度、适用范围、有效期和用量查看方式。页面明确提到首次开通后会自动发放模型免费推理额度，属于官方 API 服务的免费额度说明文档。",
+      "hasOfficialApiInfo": true,
+      "hasFreeQuotaInfo": true,
+      "hasIdeOrSdkInfo": false,
+      "tags": [
+        "官方文档",
+        "AI API",
+        "大模型平台",
+        "免费额度",
+        "试用",
+        "阿里云百炼"
+      ],
+      "sourceKeywords": [
+        "sk- 免费 API"
+      ],
+      "freeQuotaDesc": "首次开通阿里云百炼后，平台会自动发放各模型的新人专属免费额度，仅中国内地版模型享有；免费额度通常有效期为 30~90 天，2025年9月8日11点起首次开通用户调整为 90 天。",
+      "firstSeenAt": "2026-03-27T14:53:56.202Z",
+      "lastUpdatedAt": "2026-03-27T14:53:56.202Z"
     }
   ],
-  "lastCollectedAt": "2026-03-27T09:50:05.476Z"
+  "lastCollectedAt": "2026-03-27T15:03:42.710Z"
 }
