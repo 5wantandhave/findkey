@@ -247,7 +247,7 @@
       ],
       "freeQuotaDesc": "页面明确写明“本站为永久免费公益站”，表示该站提供免费的公益访问方式。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-19T09:32:04.844Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://sunlea.de/",
@@ -339,7 +339,7 @@
       ],
       "freeQuotaDesc": "页面写明“免费额度已经用完”，并说明备份站点中 chatGPT V3.5 每12分钟可免费使用10次、Google Bard 免费无限制使用，且可通过“每日奖励”获取钻石来免费试用其他版本。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://free.smallai.asia",
@@ -546,7 +546,7 @@
       ],
       "freeQuotaDesc": "页面明确写有“Claude AI 公益站，免费领50刀API额度”，说明提供免费 API 使用额度。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://ai.qaq.al/",
@@ -572,7 +572,7 @@
       ],
       "freeQuotaDesc": "",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://www.xzzti.cn/",
@@ -620,7 +620,7 @@
       ],
       "freeQuotaDesc": "页面写明“提供完全免费的AI API服务”，并列出公益站模型限额，例如 GPT-4o 系列为 30 次/日。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://www.openai-hk.com/docs/lab/free-api.html",
@@ -645,7 +645,7 @@
       ],
       "freeQuotaDesc": "页面写明“免费接口仅支持 GPT-3.5 模型”，key 可通过控制台新建子 key 获取且“无需充值”；同时限制为单用户每分钟 30 次请求。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://api.zetatechs.com/",
@@ -1066,7 +1066,7 @@
       ],
       "freeQuotaDesc": "页面明确提到新用户注册送 10 刀，属于注册即送的免费额度/试用福利。",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://chat-api4.tx648.asia/",
@@ -1339,7 +1339,7 @@
       ],
       "freeQuotaDesc": "",
       "firstSeenAt": "2026-03-27T09:31:52.793Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://blog.luler.top/d/11",
@@ -1470,7 +1470,7 @@
       ],
       "freeQuotaDesc": "页面明确提到“SmallAI公益站支持无限制免费体验GPT-4o mini模型”。",
       "firstSeenAt": "2026-03-27T14:53:56.202Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://claude.gege.chat/login?returnTo=%2F%3F",
@@ -2254,7 +2254,7 @@
       ],
       "freeQuotaDesc": "",
       "firstSeenAt": "2026-03-30T05:56:53.520Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://api.deerapi.com/",
@@ -2701,7 +2701,7 @@
       ],
       "freeQuotaDesc": "常见问题中明确写到“新用户注册就送免费额度”。页面还提供控制台、文档和 API 地址，说明可直接注册后使用。",
       "firstSeenAt": "2026-04-08T05:44:58.159Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://api.apiyi.com/",
@@ -3332,7 +3332,7 @@
       ],
       "freeQuotaDesc": "页面写明“本站提供一个免费的AI/LLM API公益服务”，登录即送 200 次额度，剩余次数小于等于 50 次时可申请再加 200 次；并明确说明“本服务完全免费”。",
       "firstSeenAt": "2026-04-17T06:00:52.766Z",
-      "lastUpdatedAt": "2026-10-21T09:03:59.472Z"
+      "lastUpdatedAt": "2026-10-22T09:06:32.578Z"
     },
     {
       "url": "https://api.quickcloud.one/",
@@ -3821,5 +3821,5 @@
       "lastUpdatedAt": "2026-05-07T06:31:53.378Z"
     }
   ],
-  "lastCollectedAt": "2026-10-21T09:04:33.967Z"
+  "lastCollectedAt": "2026-10-22T09:07:11.620Z"
 }
