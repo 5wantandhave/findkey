@@ -3332,7 +3332,7 @@
       ],
       "freeQuotaDesc": "页面写明“本站提供一个免费的AI/LLM API公益服务”，登录即送 200 次额度，剩余次数小于等于 50 次时可申请再加 200 次；并明确说明“本服务完全免费”。",
       "firstSeenAt": "2026-04-17T06:00:52.766Z",
-      "lastUpdatedAt": "2026-10-30T10:41:01.026Z"
+      "lastUpdatedAt": "2026-10-31T10:08:10.638Z"
     },
     {
       "url": "https://api.quickcloud.one/",
@@ -3532,7 +3532,7 @@
         "Claude Code 公益站"
       ],
       "firstSeenAt": "2026-04-21T06:00:01.484Z",
-      "lastUpdatedAt": "2026-10-30T10:41:01.026Z"
+      "lastUpdatedAt": "2026-10-31T10:08:10.638Z"
     },
     {
       "url": "https://voapi.org",
@@ -3821,5 +3821,5 @@
       "lastUpdatedAt": "2026-05-07T06:31:53.378Z"
     }
   ],
-  "lastCollectedAt": "2026-10-30T10:41:38.618Z"
+  "lastCollectedAt": "2026-10-31T10:08:45.009Z"
 }
